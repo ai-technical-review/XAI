@@ -1,2 +1,2 @@
-# ai_rev.github.io
+# ai review
 In preparing...
